@@ -1,4 +1,4 @@
-# ASS3
+# Assingment3
 # FluidSimDemo
 One assingment of COMP5823M Animation and Simulation in University of Leeds
 
